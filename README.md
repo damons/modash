@@ -2,9 +2,6 @@
 <img src="https://travis-ci.com/senorprogrammer/wtf.svg?branch=master" /> <a href="https://gitter.im/wtfutil/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge"><img src="https://badges.gitter.im/wtfutil/Lobby.svg" /></a> <a href="#contributors"><img src="https://img.shields.io/badge/all_contributors-27-orange.svg?style=flat-square" /></a>
 
 
-<p align="center">
-  <img src="./docs/img/wtf.jpg?raw=true" title="WTF" width="852" height="240" />
-</p>
 
 A personal terminal-based dashboard utility, designed for
 displaying infrequently-needed, but very important, daily data.
@@ -18,8 +15,8 @@ displaying infrequently-needed, but very important, daily data.
 [Download and run the latest binary](https://github.com/senorprogrammer/wtf/releases) or install from source:
 
 ```bash
-go get -u github.com/senorprogrammer/wtf
-cd $GOPATH/src/github.com/senorprogrammer/wtf
+go get -u github.com/damons/modash
+cd $GOPATH/src/github.com/damons/modash
 make install
 make run
 ```
